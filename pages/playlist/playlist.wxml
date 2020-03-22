@@ -11,7 +11,19 @@
     <view class="menu-item">
       <checkbox> Bad romance </checkbox>
     </view>
-    
+    <view class="menu-item">
+      <checkbox> 红日 </checkbox>
+    </view>   
+    <view class="menu-item">
+      <checkbox> 推开世界的门 remix </checkbox>
+    </view>
+    <view class="menu-item">
+      <checkbox> 一万次悲伤 </checkbox>
+    </view>
+    <view class="menu-item">
+      <checkbox> 夜空中最亮的星 </checkbox>
+    </view>
+
     <view class="uploader">
       <navigator url="../songs/s0/s0" open-type="navigate" class="uploader-text">
         <text> 推开世界的门 </text>
