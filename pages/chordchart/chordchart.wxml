@@ -1,0 +1,5 @@
+<!--pages/chordchart/chordchart.wxml-->
+<text> Piano Chord Chart </text>
+<view class="content">
+  <image class="img" src="../../image/chordchart/chord.png" mode="widthFix"></image>
+</view>

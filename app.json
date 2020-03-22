@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/chordchart/chordchart",
+    "pages/parser/parser",
+    "pages/playlist/playlist",
+    "pages/songs/s0/s0",
+    "pages/songs/s1/s1"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "JP 小乐团",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/chordchart/chordchart",
+      "text": "chord chart",
+      "iconPath": "image/tabbar/chordchart0.png",
+      "selectedIconPath": "image/tabbar/chordchart1.png"
+    },
+    {
+      "pagePath": "pages/parser/parser",
+      "text": "chord parser",
+      "iconPath": "image/tabbar/parser0.png",
+      "selectedIconPath": "image/tabbar/parser1.png"
+    },
+    {
+      "pagePath": "pages/playlist/playlist",
+      "text": "playlist",
+      "iconPath": "image/tabbar/playlist0.png",
+      "selectedIconPath": "image/tabbar/playlist1.png"
+    }]
+  },
+  
+  "sitemapLocation": "sitemap.json"
+}

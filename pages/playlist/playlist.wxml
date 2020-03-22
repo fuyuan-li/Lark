@@ -1,0 +1,28 @@
+<!--pages/playlist/playlist.wxml-->
+<text> Test to show our playlists </text>
+<view class="content">
+  <view class="menu">
+    <view class="menu-item">
+      <checkbox> 起风了 </checkbox>
+    </view>
+    <view class="menu-item">
+      <checkbox> 真的爱你 </checkbox>
+    </view>
+    <view class="menu-item">
+      <checkbox> Bad romance </checkbox>
+    </view>
+    
+    <view class="uploader">
+      <navigator url="../songs/s0/s0" open-type="navigate" class="uploader-text">
+        <text> 推开世界的门 </text>
+      </navigator>
+    </view>
+
+    <view class="uploader">
+      <navigator url="../songs/s1/s1" open-type="navigate" class="uploader-text">
+        <text> Love Someone </text>
+      </navigator>
+    </view>
+    
+  </view>
+</view>

@@ -1,0 +1,5 @@
+/* pages/parser/parser.wxss */
+.parser{
+  display: flex;
+  flex-direction: row;
+}

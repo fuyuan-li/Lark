@@ -1,0 +1,10 @@
+<!--pages/parser/parser.wxml-->
+
+<view class="content">
+  <view class="parser">
+    <input class="parser-input" placeholder="C/Em/F7..." bindinput="readin"></input>
+    <button class="parser-button" size="mini" bindtap="parse"> Go </button>
+  </view>
+
+  <view>{{out}}</view>
+</view>

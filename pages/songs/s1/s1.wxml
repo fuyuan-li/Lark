@@ -1,0 +1,9 @@
+<!--pages/songs/s1/s1.wxml-->
+<text>pages/songs/s1/s1.wxml</text>
+
+<view class="item">
+  <text> Love Someone 清唱+吉他伴奏 </text>
+  <button type="primary" bindtap="audioPlay" size="mini"> Play </button>
+  <button type="primary" bindtap="audioPause" size="mini"> Pause </button>
+</view>
+

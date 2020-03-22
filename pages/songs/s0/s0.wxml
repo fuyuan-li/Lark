@@ -1,0 +1,18 @@
+<!--pages/songs/s0/s0.wxml-->
+<text>pages/songs/s0/s0.wxml</text>
+
+<!-- <view class="item">
+  <audio src="../../../audio/推开世界的门 第一次合 demo.m4a" action="{{action}}"> 推开世界的门 第一次合</audio>
+  <button type="primary" bindtap="audioPlay" class='audio' size="mini">play</button>
+</view> -->
+
+<view> have a try </view>
+
+<text> 推开世界的门 第一次合 </text>
+<button type="primary" bindtap="audioPlay" size="mini"> Play </button>
+<button type="primary" bindtap="audioPause" size="mini"> Pause </button>
+
+<view class="item">
+  <text> 推开世界的门 第三次合 </text>
+</view>
+
